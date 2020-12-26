@@ -1,4 +1,4 @@
-# darkalley-desktop
+# Vuelectron
 
 Default project for vue/electron apps featuring [electron-seamless-titlebar-tutorial] (https://github.com/binaryfunt/electron-seamless-titlebar-tutorial/README.md)
 

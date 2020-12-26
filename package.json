@@ -1,9 +1,9 @@
 {
-  "name": "darkalley-desktop",
+  "name": "vuelectron",
   "version": "0.1.0",
   "private": true,
-  "description": "Your trusty e-dealership",
-  "author": "darkway",
+  "description": "empty",
+  "author": "none",
   "scripts": {
     "build": "vue-cli-service electron:build",
     "serve": "vue-cli-service electron:serve",
